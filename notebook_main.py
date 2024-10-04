@@ -1,4 +1,3 @@
-import welcome_message
 from tkinter import Tk
 from sign_up import first_use
 from login import not_first_use
