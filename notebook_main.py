@@ -7,7 +7,7 @@ import center_window
 import sys
 import os
 from tkinter import PhotoImage
-welcome_message.play()
+
 
 
 
